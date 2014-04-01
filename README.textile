@@ -10,7 +10,7 @@ _Install Ruby 2.1.1:_
 _Install Rails 4.1.0_
 6. $ gem install rails -v 4.1.0.beta1 —pre
 
-_Set up the Rails app on your localhost:
+_Set up the Rails app on your localhost:_
 7. $ git clone git://github.com/sorsaffari/rails-moodle.git
 8. $ cd rails-moodle
 9. $ bundle install
